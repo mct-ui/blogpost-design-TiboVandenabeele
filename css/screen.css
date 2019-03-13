@@ -78,7 +78,12 @@ img {
     Default markup for typographic elements
 */
 
-h1,
+h1{
+    font-style: 36px;
+    line-height: 40px;
+    margin: 0 0 24px;
+    font-family: "Playfair Display", serif;
+}
 h2,
 h3{
     font-family: "Inter UI web", "Helvetica Neue", Helvetica, arial, sans-serif;
